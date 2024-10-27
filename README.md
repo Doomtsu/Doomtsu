@@ -1,1 +1,1 @@
-[![Doomtsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doomtsu)](https://github.com/Doomtsu/github-readme-stats)
+![Toyeshh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doomtsu&theme=Holi&show_icons=true)
